@@ -24,7 +24,7 @@ public class MainActivity extends Activity {
         
 //        mListView.smoothScrollBy(60, 200);55555
 
-//        mListView.smoothScrollByOffset(50);
+//        mListView.smoothScrollByOffset(60);
 
         Thread mThread = new MyThread();
         mThread.run();
