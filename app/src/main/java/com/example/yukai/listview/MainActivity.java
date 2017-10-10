@@ -22,7 +22,7 @@ public class MainActivity extends Activity {
 //        mListView.setSelection(6);
         Log.e(TAG, "thread info: " + Thread.currentThread().getName());
         
-//        mListView.smoothScrollBy(60, 200);1
+//        mListView.smoothScrollBy(60, 200);2
 
 //        mListView.smoothScrollByOffset(60);
 
