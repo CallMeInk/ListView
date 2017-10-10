@@ -21,7 +21,7 @@ public class MainActivity extends Activity {
         mListView.setAdapter(myAdapter);
 //        mListView.setSelection(6);
         Log.e(TAG, "thread info: " + Thread.currentThread().getName());
-//        mListView.smoothScrollBy(60, 200);22222
+//        mListView.smoothScrollBy(60, 200);33333
 //        mListView.smoothScrollByOffset(50);
 
         Thread mThread = new MyThread();
